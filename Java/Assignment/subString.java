@@ -10,4 +10,4 @@ class subString{
 		System.out.println("Replace: "+str1.replace('d','o'));
 		System.out.println("Substring: "+str2.substring(3));
 	}
-}
+}                         
