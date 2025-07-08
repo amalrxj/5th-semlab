@@ -1,4 +1,4 @@
-class typeConvo{
+class typeConvo{       
 	public static void main(String arg[]){
 		int a = 10;
 		double b = 5.2;
